@@ -6,7 +6,7 @@ This report provides a comprehensive overview of the store’s sales performance
 
 📌 Key Highlights
         Total Orders: 1,000
-        
+
         Total Revenue: ₹ 35,20,984
         
         Average Customer Spending: ₹ 3,521
